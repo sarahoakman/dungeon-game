@@ -1,4 +1,5 @@
 # Dungeon Game
+![](dungeon.gif)
 
 ## Overview
 * JUint testing with basic unit testing to ensure the backend works correctly
@@ -10,6 +11,7 @@
 * Used design patterns and agile project managemenet
 
 * JUint testing with basic unit testing to ensure the backend worked correctly
+
 
 ## Setting Up
 
