@@ -24,3 +24,7 @@
 * /images: images used for the game entities
 * /src/unsw/dungeon/: contains the java files
 * /src/unsw/dungeon/test: contains JUnit testing for each basic game play
+
+## Collaborators
+* Sarah Oakman
+* Lavanya Sood
